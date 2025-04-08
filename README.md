@@ -8,13 +8,32 @@ Summary
 Features
 - User CRUD
 - Simple UI
+- Enable Sign in/up with google account.
 - Language selection (Korean or English)
+- Ranking system for Speakers
 - Interactive map with markers showing available "Speakers"
 - Having a chat to arrange appointments, discuss fees, or make plans.
 - Support for both video calls and in-person conversations.
 
-User Info
+Ranking System for Speakers
+- Higher rank = Lower commission fee
+- Rank based on reviews, sessions, or activity
 
+User Info
+  either
+- name
+- email
+- password
+- mobile
+- role(speaker / user)
+- profile image
+- join date
+
+  speaker
+- introduction
+- english level
+- location
+  
 Using Skills
 - React
 - Spring Boot
